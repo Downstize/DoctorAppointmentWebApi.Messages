@@ -8,3 +8,4 @@ public class PatientInfo
     public DateTime AppointmentDate { get; set; }
     public string Symptoms { get; set; }
 }
+
